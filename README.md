@@ -83,7 +83,7 @@ We want to evolve SchemaStats from a static dataset viewer into a live global se
 
 We are using this repository space exclusively to gather ideas, feedback, and architectural advice from the global SEO & Dev community.
 
-We highly encourage you to Open an Issue or start a discussion if you want to propose new filtering capabilities, UI charts, or technical integrations.
+We highly encourage you to [Open an Issue](https://github.com/searchstefano/schemastats/issues) or start a discussion if you want to propose new filtering capabilities, UI charts, or technical integrations.
 
 ---
 
