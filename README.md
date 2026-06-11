@@ -94,3 +94,20 @@ We highly encourage you to [Open an Issue](https://github.com/searchstefano/sche
 [Google Search Central — Structured Data Documentation](https://developers.google.com/search/docs/appearance/structured-data)
 
 > Disclaimer: SchemaStats is an independent community project and is not affiliated with, sponsored by, or endorsed by Google, Microsoft, or the Schema.org foundation.
+
+---
+
+## 🤝 Contributions & Community Stars
+
+SchemaStats is a community-driven project. We believe that valuable contributions come in many forms—whether it's writing code, improving documentation, suggesting UX enhancements, or opening insightful issues.
+
+### Special Thanks to Our Contributors:
+*   [@alisonsainsbury-adx](https://github.com/alisonsainsbury-adx) — For opening the foundational issue on accessibility, global contrast improvements, and validation legends.
+*   [@glenngabe](https://x.com/glenngabe) - For the support <3
+
+### How You Can Contribute:
+1.  **Report Bugs & Suggest UX Improvements:** Notice something broken or hard to read? Open an issue!
+2.  **Feature Requests:** Want to see a specific chart or integration? Let's discuss it in the issues.
+3.  **Code & Docs:** Feel free to pick up any open issues or propose fixes via Pull Requests.
+
+> 💡 **Want to be featured here?** Every meaningful issue, bug report, or discussion that helps shape the platform will be recognized and tagged in this section!
